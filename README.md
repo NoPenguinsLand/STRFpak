@@ -1,6 +1,6 @@
 # STRFpak
 Generate spectro-temporal receptive field.
-I updated STRFPak to make it works with Matlab R2016a.
+I updated STRFPak to ensure compatibility with Matlab R2016a.
 
 Contact info: mn0mn0mn@gmail.com
 
